@@ -1,0 +1,7 @@
+h1. Rectangular coordinates
+
+Translation and rotation of 2D rectangular coordinates.
+
+h3. Dependencies
+
+* "Batik toolkit":http://xmlgraphics.apache.org/batik/
